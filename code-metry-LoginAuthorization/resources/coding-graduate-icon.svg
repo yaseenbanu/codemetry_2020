@@ -1,0 +1,35 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+ <metadata>Created by potrace 1.16, written by Peter Selinger 2001-2019</metadata>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="32" width="32" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill="#000000" transform="translate(0,480) scale(0.10000000149011612,-0.10000000149011612) ">
+   <path id="svg_2" d="m2522,4428c-17,-17 -17,-526 0,-562c6,-14 30,-34 52,-45c23,-10 238,-74 478,-142c241,-68 438,-126 438,-130c0,-3 -206,-63 -457,-135c-416,-117 -461,-132 -490,-161l-33,-31l0,-271l0,-271l25,-16c23,-15 33,-13 242,59c120,41 363,125 541,186c845,290 815,279 845,311l27,30l0,300l0,300l-27,30c-25,27 -119,62 -802,295c-426,146 -786,265 -801,265c-14,0 -31,-5 -38,-12z"/>
+   <path id="svg_3" d="m1935,4400c-44,-16 -282,-98 -530,-183c-1000,-344 -948,-325 -977,-357l-28,-30l0,-295c0,-201 4,-302 12,-319c6,-14 30,-34 52,-45c23,-11 246,-89 496,-175c250,-85 587,-200 749,-255c162,-56 307,-101 322,-101c18,0 32,7 39,19c15,28 13,522 -2,555c-6,14 -30,34 -52,45c-23,10 -238,74 -478,142c-241,68 -438,126 -438,130c0,3 206,63 458,135c415,117 460,132 490,161l32,31l0,270c0,269 0,271 -22,286c-28,20 -28,20 -123,-14z"/>
+   <path id="svg_4" d="m635,3038c-46,-26 -44,4 -45,-941c0,-883 0,-899 -20,-924c-19,-25 -20,-41 -20,-375l0,-349l25,-24c24,-25 27,-25 195,-25c178,0 219,8 234,45c3,9 6,172 6,361c0,331 -1,345 -20,364c-20,20 -20,33 -20,888c0,766 -2,870 -15,890c-11,15 -53,33 -143,62c-139,44 -147,45 -177,28z"/>
+   <path id="svg_5" d="m3715,2978c-60,-22 -120,-49 -132,-61l-23,-20l0,-578l0,-578l-22,-25c-13,-13 -210,-141 -438,-284c-228,-142 -448,-280 -488,-306c-40,-26 -86,-49 -101,-52c-25,-5 -416,138 -1285,472c-106,41 -138,43 -171,9c-24,-23 -25,-28 -25,-174c0,-141 1,-151 23,-174c15,-17 124,-65 342,-151c176,-69 419,-164 540,-212c121,-47 294,-115 385,-151c110,-43 173,-63 191,-59c22,4 192,107 1149,696c158,97 260,166 267,181c10,18 13,190 13,732c0,602 -2,712 -15,736c-27,54 -63,54 -210,-1z"/>
+  </g>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_19" y2="7.340889" x2="5.843856" y1="2.778505" x1="14.406138" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" transform="rotate(-5.856015205383301 10.218744277954109,9.372087478637702) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_20" y2="12.033231" x2="14.356498" y1="6.710943" x1="6.08099" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" transform="rotate(-1.3921717405319214 6.445477724075317,17.58632755279541)" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_23" y2="26.334498" x2="6.382979" y1="8.838156" x1="6.507976" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_24" y2="23.652971" x2="15.718604" y1="19.528077" x1="7.718809" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_25" y2="18.965591" x2="24.655875" y1="23.71547" x1="16.093595" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_33" y2="2.716007" x2="-18.905511" y1="1.153547" x1="-20.280476" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_35" y2="-2.346364" x2="2.406444" y1="-3.721329" x1="0.906482" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <ellipse id="svg_39" cy="6.590908" cx="10.281243" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <ellipse id="svg_41" cy="17.715624" cx="10.906227" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_46" y2="19.090639" x2="24.155939" y1="8.46591" x1="24.030942" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_47" y2="9.465885" x2="-9.655696" y1="5.965975" x1="-13.905587" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_50" y2="24.340505" x2="16.156144" y1="23.153035" x1="16.156144" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse id="svg_53" cy="8.528409" cx="19.281064" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_55" y2="6.841029" x2="24.281011" y1="2.778633" x1="15.218743" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" transform="rotate(1.289780855178833 19.937374114990487,9.028472900390526) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_56" y2="11.651264" x2="15.596524" y1="6.405682" x1="24.278221" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_58" y2="26.340529" x2="8.031428" y1="24.965564" x1="8.031428" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_59" y2="9.52846" x2="24.031017" y1="8.090997" x1="24.031017" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_62" y2="19.903195" x2="24.156014" y1="18.465731" x1="24.156014" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+ </g>
+</svg>
