@@ -2,7 +2,7 @@
 	"name": "code-metry",
 	"displayName": "code-metry",
 	"description": "An Exclusive extension for those who are new to the programming, providing them help where and when required",
-	"version": "0.0.1",
+	"version": "5.0.0",
 	"publisher": "code-metry-msit",
 	"engines": {
 		"vscode": "^1.45.0"
