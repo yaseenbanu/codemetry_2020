@@ -4,8 +4,14 @@ import * as vscode from 'vscode';
 import { KpmManager } from "./lib/managers/KpmManager";
 import { createCommands } from "./lib/command-helper";
 import { handleSave, createGitToken } from './lib/Loggers';
+import { Socket } from './WebSockets/socket';
+import { CircularBuffer } from './lib/Circular_Buffer/circularbuffer';
+import { resolve } from 'path';
+import { rejects } from 'assert';
 
 const kpmController: KpmManager = KpmManager.getInstance();
+export let socket = Socket.getInstance();
+export let circularBuffer = CircularBuffer.getInstance();
 
 export function activate(context: vscode.ExtensionContext) {
 
@@ -14,5 +20,12 @@ export function activate(context: vscode.ExtensionContext) {
   vscode.workspace.onDidSaveTextDocument(handleSave);
   createGitToken();
 };
-
-export function deactivate() { }
+	
+export async function deactivate() { 
+  return new Promise(async (resolve) => {
+    (await socket).sendData(circularBuffer);
+    (await socket).ws.close();
+    (await socket).cancelKeepAlive();
+    resolve(true);
+  });
+}

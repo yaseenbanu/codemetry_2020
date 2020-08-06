@@ -1,4 +1,6 @@
 import * as vscode from 'vscode';
+import { getJWT } from '../Loggers';
+const fs = require('fs');
 
 export default class KpmItem {
     id: string = "";
@@ -19,16 +21,15 @@ export default class KpmItem {
 }
 
 export class FileChangeInfo {
-    keystrokes: number = 0;
-    add: number = 0;
-    paste: number = 0;
-    delete: number = 0;
+    projectDir : string = "";
+    fileName : string = "";
+    paste: boolean = false;
+    delete: boolean = false;
     lines: number = 0;
-    linesAdded: number = 0;
-    linesRemoved: number = 0;
     syntax: string = "";
-    start: string = '';
-    end: string = '';
+    keyStrokeTimeStamp : string = "";
+    keyStrokeInfo : string = "";
+    position : string = "";
 }
 
 export class SessionSummary {
